@@ -1,14 +1,32 @@
-# AniQuest
+# AniQuest 🎌
 
-AniQuest es una aplicación web para explorar catálogos de anime de forma dinámica y atractiva. Con una interfaz moderna y responsiva, permite buscar series, filtrarlas por categorías y ver detalles en un modal sin abandonar la página.
+AniQuest es una aplicación web para explorar animes, desarrollada con React, Tailwind CSS, Vite y la API de Jikan. Permite visualizar, buscar y consultar detalles de distintos animes de forma interactiva y moderna.
 
-## 🔧 Tecnologías
+## 🚀 Tecnologías Utilizadas
 
-- **React** (v18+)  
-- **Vite** como bundler y servidor de desarrollo  
-- **Tailwind CSS** para estilos utilitarios  
-- **Framer Motion** para animaciones suaves  
-- **React Router** para navegación SPA con rutas y modales  
-- **Jikan API** (v4) para obtener datos de MyAnimeList  
-- **React Icons** para iconografía  
+- ⚛️ React
+- 💨 Tailwind CSS
+- ⚡ Vite
+- 🌐 Jikan API (MyAnimeList)
+- 🧭 React Router
+- 🎮 Framer Motion
 
+## ✨ Funcionalidades
+
+- Lista interactiva de animes
+- Búsqueda por nombre en tiempo real
+- Modal con información detallada del anime
+- Navegación con React Router
+- Diseño responsivo y limpio con Tailwind
+
+## 🌍 Enlace a la app desplegada
+
+👉 [Ver AniQuest en Netlify](https://aniquest-willr0d.netlify.app/)
+
+## 📸 Vista previa
+
+![Preview](https://aniquest-willr0d.netlify.app/preview.png)
+
+## 📜 Licencia
+
+Este proyecto fue creado con fines educativos.
