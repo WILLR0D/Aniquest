@@ -23,10 +23,6 @@ AniQuest es una aplicación web para explorar animes, desarrollada con React, Ta
 
 👉 [Ver AniQuest en Netlify](https://aniquest-willr0d.netlify.app/)
 
-## 📸 Vista previa
-
-![Preview](https://aniquest-willr0d.netlify.app/preview.png)
-
 ## 📜 Licencia
 
 Este proyecto fue creado con fines educativos.
